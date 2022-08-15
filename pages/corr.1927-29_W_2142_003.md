@@ -1,0 +1,21 @@
+---
+filename: corr.1927-29_W_2142_003
+layout: imagepage
+---
+
+they seem to my and themselves
+have To think and of never
+an cm me offed it -
+Grandwrth - want an a stopping
+hip lotely - and bugus for busself
+an out fit of sping closhes
+her coal east. $65k
+the hip cast her acount '0
+she wouldn't allow and Jennise
+to go along paid she was too
+old fashioned but slipped out
+alone. - margaret missed hr
+hurried our town. busing her
+just as she who puthing on
+the nuo eat she was
+

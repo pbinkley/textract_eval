@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% assign filename = page.filename | append: '.txt' %}
+{% assign thisrow = site.data.wer_data | where: 'filename', filename | first %}
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.filename | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    <h3>OCR Text</h3>
+
+    <p>
+      CER: {{ thisrow['cer'] }}<br/>
+      WER: {{ thisrow['wer'] }}
+    </p>
+
+    <div style="border: 1px solid black; padding: 1em; margin-bottom: 1em;">
+      {{ content | newline_to_br }}
+    </div>
+    <img src="../images/{{ page.filename }}.jpg">
+  </div>
+
+</article>

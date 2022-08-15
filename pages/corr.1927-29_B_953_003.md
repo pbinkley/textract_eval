@@ -1,0 +1,29 @@
+---
+filename: corr.1927-29_B_953_003
+layout: imagepage
+---
+
+Every day he goes up the creek
+to see whether we can have a new
+panther rug, and everyday che path
+It might beamonth
+is empty.
+till that panther uses the trail again,
+though he had been past twice since
+I'm hoping
+we are here.
+Bea is the adventurous spirit.
+She has been using the motorcycle.
+Bill is her
+sponsons
+just learned it himself Fran
+is the
+dark sceptic
+He remembers too
+many flops. of course, as he says, he
+e
+knew he could lift it up and Bea
+knows she can't so perhaps she
+really is careful
+festerday she
+

@@ -1,0 +1,18 @@
+---
+filename: corr.1937-38_B_8569_001
+layout: imagepage
+---
+
+Dec. 31-1937
+Dear Frances
+were getting off at Past. Leaving
+here tomorrow- arrive Now York Wednesday
+A.M.-fairly early I'll taxi us up and we'll
+get to your house between ft 9. Train gets
+in at 7:30- I suspect Georgia will be howling for
+breakfast by that time- So will delay for thel - unless
+we can manage to feed her on the train.
+We seem fated not to see your boys. Didn't
+they like Lincoln? Till then-Cheerio.
+Mollie
+

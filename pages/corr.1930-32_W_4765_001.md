@@ -1,0 +1,27 @@
+---
+filename: corr.1930-32_W_4765_001
+layout: imagepage
+---
+
+c/o m. R. Lampson
+521 Rowell Bldg.
+Fresus, Calif.
+Dear Babe Frances,
+Hin is a
+with an important news that )'m well and
+hope you are Christmas n not, ) do wish
+I were in elevelons,Through Haven't even
+even seen Robert, Jn. yet ) ill probably
+go worth afternew years- would like to
+meet two famil again.
+Have you seen my hook in my
+eleveland bork- store?- - 9 don't Suppose the hor
+Thing will make entrences m un pullisher. ) haven't
+Sir hand 9 your "Responsible writing' yetsbut thest
+do so From . ) hope Farrar 4 Rinehant sentyon ll
+enpy of msmining as f Lana promised! he was
+ill for two months (his fall, and all that menting the
+bum, hat ) hope They send you a copy, even Though late. thanks
+Day love Carl to al 9 you
+fathe mdian yountrimentent, BMb.
+

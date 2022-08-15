@@ -1,0 +1,19 @@
+---
+filename: books_diaries_13206_100
+layout: imagepage
+---
+
+lalmost wept
+to
+\- a middly blook
+walking along
+I was m a burry
+Plannt noti I till
+it Nus anarly past
+me -
+list turn my hard
+and water
+Trunk girs da
+neid weam the
+withours
+

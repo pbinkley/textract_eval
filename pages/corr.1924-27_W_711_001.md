@@ -1,0 +1,25 @@
+---
+filename: corr.1924-27_W_711_001
+layout: imagepage
+---
+
+Dec. 22, 1926.
+Dear Frances;
+I'm sure you will
+be interested in hearing
+about our preparations
+for Christmas Rachael,
+our severed household
+eritie, informed us one
+evening that the curtains
+should he washed before
+Christmas, so yesterday
+mother proceeded to launder
+them with greatest care, in
+hopes of pleasing our Rachael
+and improving the house for
+the halidaye This morning
+we carefully ironed them all,
+six pairs, and, though they
+are not of the finest quality
+

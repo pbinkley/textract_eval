@@ -1,0 +1,22 @@
+---
+filename: corr.1931-33_P_7705_001
+layout: imagepage
+---
+January 30, . 1933
+by dear the Binerley :
+Several of our members have
+been do much impressed by
+your contribution i the last
+number of the New Republic
+that they are eaper belance
+you come to our meeting hell
+tuesday. February 7. at halp
+three at 42Brattle Street.
+the have been asked to have
+a weaker ou the Nahoual Economy Leaque
+and vanous member want the arguments
+for other kind of wise economy presented
+we de not mean bave a debate.
+of you could give us of your
+
+

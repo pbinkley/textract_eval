@@ -1,0 +1,30 @@
+---
+filename: corr.1931-33_N_7691_002
+layout: imagepage
+---
+
+five ships to Buenes are and one
+to an aetsers wife and "it mustlook
+just. like Bengs ship" So we
+have hope, and Jim ten dollars is
+safe inline savings account. much as
+he wanted to pita ina minnies bank".
+He is a regular little ilky: This H.M. l
+was fixing a deposit slip for Justs water
+district, I went out to sevener the door +
+when l come back he who putting the
+money into his bank us fast as he could
+he put over three dollars in + it isone
+of those Bank of Italy banks. - He always
+, runo to his body + asks for moony'r
+peaning he puts his polum out schokes
+them back t forth, if there aruit any he
+parts his hands out and strugs his
+sholders, monny and gone. There is some
+few on his grosumemos side-few
+german + Pussion + Swede. He talks
+german to his "grossie it song Tosmonbour
+at xmos and say "beon " scoll deansed
+allawaya wigle scoll with his grossbaba
+(that : what it soundslike to mey
+

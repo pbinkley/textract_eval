@@ -1,0 +1,29 @@
+---
+filename: corr.1938-43_R_8234_001
+layout: imagepage
+---
+
+17902 Windwarded
+Cleveland Ohio
+Dec. 10-1941
+Dear Frances Birally +
+I was vastery much pleased
+to cards you were It in is coloredo,
+but get Idid your not know just where that strange is
+that Boulder happens to hea place very
+familiarth to my husbands family, Infact and d
+cousin teaches in Boulder,
+Bab's will come in touch with him will His
+hope you is Christ Recht. I hope you that
+name introduce your self and till him he you
+were our neighter He happens to oneofmy have
+husbands famite cousins, they
+many times around your place those and
+have fished been all swaround through
+mountains many times.
+Bof and tommy are quite m
+I suppose to knousthal Donny and and jury combo
+are plassed going to line in their house play
+in their yard.
+I have not beenover to school guite as much
+
