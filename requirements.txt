@@ -1,3 +1,5 @@
+amazon-textract-caller
+amazon-textract-response-parser
 opencv-python
 pybind11
 fastwer
