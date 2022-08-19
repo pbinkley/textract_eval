@@ -7,6 +7,8 @@ layout: simplehome
 This is set of results from the [AWS Textract](https://aws.amazon.com/textract/) service to demonstrate its ability to handle 
 handwritten text. I processed about 5000 handwritten pages from the 1920s-40s, mostly letters or rough notes. I then randomly selected 50 pages for this demonstration. I prepared ground truth files for each of the sample pages manually, and used [fastwer](https://github.com/kahne/fastwer) to calculate the Character Error Rate and Word Error Rate (CER and WER). In the [table](#table) below you can see the sample pages, sorted by CER from best to worst. Click the sample image to see the text returned by Textract and the page image.
 
+The Python script used in this testing is available in the [main branch](https://github.com/pbinkley/textract_eval)
+
 ## Notes on method
 
 - I removed the text of any printed letterheads from the OCR and the ground truth, so as to evaluate only the handwritten text
